@@ -15,3 +15,8 @@ int main()
   return 0;
 }
 ```
+## Aquí vamos a crear una checklist:
+
+- [x] Se hizo el curso Introduction to GitHub.
+- [ ] Se hizo el curso Communicate using Markdown.
+- [ ] Se entregó la tarea al Dr. Julio Waissman.
