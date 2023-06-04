@@ -7,7 +7,7 @@ Ahora agregaremos una imágen:
 
 Acto seguido, vamos a agregar un codigo de ejemplo.
 
-```
+```C
 int main()
 {
   prinf(¡Hola, mundo!);
